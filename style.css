@@ -1,0 +1,86 @@
+.logo{
+    height:50px;
+    width:50px;
+    border-radius: 30px;
+}
+.header{
+    background-color: black;
+}
+.icon-bar {
+    width: 90px; /* Set a specific width */
+    background-color: #555; /* Dark-grey background */
+  }
+  .id2{
+    margin-top: 30px;
+  }
+  .id1,.id3,.id4{
+    bottom: 1px;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .header{
+    display:flex;
+    height:15vh;
+  }
+  #contact,#comm,#voir{
+    width:100px;
+    background-color: rgb(126, 126, 160);
+    height: 100px;
+    margin-left: 90px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 201px;
+  }
+  .rech{
+    margin-left:40px;
+    text-align: center;
+    margin-top:-30px;
+    width:300px;
+    display: flex;
+    
+  }
+  .rech::placeholder{
+    background-color: black;
+    color:yellow;
+  }
+  #contact:hover,#voir:hover,#comm:hover{
+  background-color: rgb(34, 150, 111);
+  color:black;
+  }
+  .con{
+    height:40px;
+    width:50px;
+    
+  }
+  .con1{
+    height:40px;
+    width:50px;
+    color: yellow;
+  }
+  .dcon{
+    background:linear-gradient(34deg,black,white,black);
+    height: 85vh;
+    display: flex;
+  }
+  #rec{
+    margin-top: 100px;
+    margin-right: 5px;
+  }
+  .art{
+    height:150px;
+    width:150px;
+  }
+  .articles{
+    margin-top: 110px;
+    margin-left: 150px;
+  }
+  #i{
+    text-decoration: none;
+  }
+  .sidebar{
+   
+  }
